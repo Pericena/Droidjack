@@ -1,7 +1,5 @@
 DroidJack v4.4 - Android Remote Administration Tool
 
-[![](https://3.bp.blogspot.com/-Q45QIYqVZsI/WVxb474f8-I/AAAAAAAAFpo/3sEfc8N1218c681TcztgoHdTiG8yJEcBgCLcBGAs/s1600/Screenshot_11.png)](https://www.lpericena.tk/2017/07/droid-jack.html)
-
 Author:
 --------
 L.R Sanjeevi (c) 2015.
