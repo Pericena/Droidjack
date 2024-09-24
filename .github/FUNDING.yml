@@ -1,12 +1,15 @@
-# These are supported funding model platforms
-github: [Pericena]
-paypal: https://www.paypal.com/paypalme/lpericena  # Reemplaza "link_paypal" con tu enlace de PayPal
-binance: 198690745  # Reemplaza "link_binance" con tu enlace de Binance
-patreon: # Replace with a single Patreon username
-open_collective: # Replace with a single Open Collective username
-ko_fi: # username_ko_fi
-tidelift: # Ejemplo: npm/babel
-liberapay: # Replace with a single Liberapay username username_liberapay
-issuehunt: # Replace with a single Otechie username username_issuehunt
-lfx_crowdfunding: # Replace with a single LFX Crowdfunding project-name e.g., cloud-foundry project-name_lfx_crowdfunding  # Ejemplo: cloud-foundry
-custom: ['https://lpericena.blogspot.com/', 'https://github.com/sponsors/Pericena']
+# Supported Funding Model Platforms
+
+- **GitHub**: [Pericena](https://github.com/sponsors/Pericena)
+- **PayPal**: [PayPal.me/lpericena](https://www.paypal.com/paypalme/lpericena)
+- **Binance**: [ID: 198690745]  <!-- Reemplaza con tu ID o enlace personalizado de Binance -->
+- **Patreon**: [username_patreon]  <!-- Reemplaza con tu nombre de usuario en Patreon -->
+- **Open Collective**: [username_open_collective]  <!-- Reemplaza con tu nombre de usuario en Open Collective -->
+- **Ko-fi**: [username_ko_fi]  <!-- Reemplaza con tu nombre de usuario en Ko-fi -->
+- **Tidelift**: [npm/package-name]  <!-- Ejemplo: npm/babel, reemplaza con tu proyecto en Tidelift -->
+- **Liberapay**: [username_liberapay]  <!-- Reemplaza con tu nombre de usuario en Liberapay -->
+- **Issuehunt**: [username_issuehunt]  <!-- Reemplaza con tu nombre de usuario en Issuehunt -->
+- **LFX Crowdfunding**: [project-name_lfx_crowdfunding]  <!-- Ejemplo: cloud-foundry, reemplaza con el nombre de tu proyecto -->
+- **Custom**: 
+  - [Blog de Pericena](https://lpericena.blogspot.com/)
+  - [GitHub Sponsors](https://github.com/sponsors/Pericena)
