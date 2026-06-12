@@ -6,7 +6,6 @@
 > This tool is for **educational purposes only** in controlled laboratory environments.  
 > **Do not use on devices you do not own or without explicit written consent.**  
 > Unauthorized access to devices is illegal in most countries.
-
 ---
 
 ## 📚 About this project
