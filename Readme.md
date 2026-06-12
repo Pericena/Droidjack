@@ -2,13 +2,13 @@
 
 **Educational project for understanding mobile security vulnerabilities and remote administration mechanisms.**
 
-> ⚠️ **IMPORTANT - ETHICAL USE ONLY**  
+>  **IMPORTANT - ETHICAL USE ONLY**  
 > This tool is for **educational purposes only** in controlled laboratory environments.  
 > **Do not use on devices you do not own or without explicit written consent.**  
 > Unauthorized access to devices is illegal in most countries.
 ---
 
-## 📚 About this project
+##  About this project
 
 This is a research-oriented Android Remote Administration Tool (RAT) designed to help security professionals and students understand:
 
@@ -21,7 +21,7 @@ This is a research-oriented Android Remote Administration Tool (RAT) designed to
 
 ---
 
-## ⚙️ Features (for research)
+##  Features (for research)
 
 | Feature | Description |
 |---------|-------------|
@@ -33,7 +33,7 @@ This is a research-oriented Android Remote Administration Tool (RAT) designed to
 
 ---
 
-## 🔧 Setup for lab environment
+##  Setup for lab environment
 
 ### Requirements
 - Dynamic DNS service (No-IP or similar)
@@ -55,7 +55,7 @@ This is a research-oriented Android Remote Administration Tool (RAT) designed to
 
 ---
 
-## 📖 Research documentation
+##  Research documentation
 
 This project is intended to help answer research questions like:
 
@@ -65,7 +65,7 @@ This project is intended to help answer research questions like:
 
 ---
 
-## ⚠️ Legal disclaimer
+##  Legal disclaimer
 
 This software is provided **for educational research only**. 
 
@@ -77,13 +77,13 @@ By using this software, you agree to comply with all applicable laws, including 
 
 ---
 
-## 🔗 Original reference
+##  Original reference
 
 Based on research originally published at www.droidjack.net (2015).  
 This version has been modified for educational documentation purposes.
 
 ---
 
-## 📬 Contact
+##  Contact
 
 For research collaboration or security discussions, reach out via GitHub or LinkedIn.
